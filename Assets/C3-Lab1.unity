@@ -761,6 +761,7 @@ MonoBehaviour:
   speed: 20
   weapons: []
   selectedWeaponIndex: 0
+  arraySize: 6
 --- !u!65 &1134857648
 BoxCollider:
   m_ObjectHideFlags: 0
